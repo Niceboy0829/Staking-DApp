@@ -67,7 +67,7 @@ By using it you agree to not violate Plagiarism and Copyright Infringment
 
 
 ## Running instructions
-* Copy project to your directory ( `git clone https://github.com/Niceboy0829/Token-Staking-dApp` )
+* Copy project to your directory ( `git clone https://github.com/Niceboy0829/Staking-App` )
 * Install project packages (`npm install`)
 * Start project (`npm run start`)
 
@@ -78,7 +78,7 @@ By using it you agree to not violate Plagiarism and Copyright Infringment
 * There are prewritten scripts for Admin use either manually or on daily, weekly basic, ideally with predefined cronjob from the server.
 * All scripts are located in `/scripts` folder
 * To change APY % run: ```truffle exec scripts/changeAPY.js 0.137``` this script takes 1 argument (daily APY),  in this provided example, admin sets `0.137` daily APY 
- ![Preview](src/assets/screenshot2.png)
+
 * To redistribute rewards from the console, run: ```truffle exec scripts/redistribute.js``` or provide argument `custom` if you want to redistribute custom rewards
   ![Preview](src/assets/screenshot3.png)
 
