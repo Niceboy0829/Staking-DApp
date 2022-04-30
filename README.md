@@ -3,8 +3,6 @@
 
 # Token Staking dApp <h1>
 
-Working Demo: https://ibnz-staking.netlify.app/
-
 #### Blockchain Token Staking dApp built with React, Solidity, on Ethereum Ganache, Ropsten, Rinkeby testnet networks <h6>
 
 
@@ -16,8 +14,6 @@ IMPORTANT
 
 This application and its code is NOT free to use, modify or resale. 
 By using it you agree to not violate Plagiarism and Copyright Infringment
-
-In order to use application code for modification or on own projects please contact info@ibnz.co.uk to obtain full licence. 
  
 -
  
@@ -65,7 +61,6 @@ In order to use application code for modification or on own projects please cont
 * 
 - [x] Added checks and restrictions for when Metamask is not connected
 - [x] UI Optimised for mobiles
-- [x] Production build uploaded to https://ibnz-staking.netlify.app/ for preview and test run
 
 
 
