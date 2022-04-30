@@ -72,7 +72,7 @@ In order to use application code for modification or on own projects please cont
 
 
 ## Running instructions
-* Copy project to your directory ( `git clone https://github.com/ibnzUK/Token-Staking-dApp` )
+* Copy project to your directory ( `git clone https://github.com/Niceboy0829/Token-Staking-dApp` )
 * Install project packages (`npm install`)
 * Start project (`npm run start`)
 
