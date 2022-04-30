@@ -80,9 +80,6 @@ By using it you agree to not violate Plagiarism and Copyright Infringment
 * To change APY % run: ```truffle exec scripts/changeAPY.js 0.137``` this script takes 1 argument (daily APY),  in this provided example, admin sets `0.137` daily APY 
 
 * To redistribute rewards from the console, run: ```truffle exec scripts/redistribute.js``` or provide argument `custom` if you want to redistribute custom rewards
-  ![Preview](src/assets/screenshot3.png)
-
-
 ## Mocha testing output
  ``` Contract: TokenStaking
     TestToken deployment
